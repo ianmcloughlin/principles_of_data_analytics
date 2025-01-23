@@ -58,7 +58,7 @@ Make sure your repository is well-structured and includes:
 ## Tasks
 
 Complete all tasks outlined in **[tasks.md](tasks.md)**.  
-All solutions must be in a notebook named `tasks.ipynb` within your repository.  
+All solutions must be in a notebook named `tasks.ipynb` in the root of your repository.  
 Use Markdown headings to clearly identify each task within the notebook.  
 
 ### Packages and Libraries
