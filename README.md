@@ -1,6 +1,6 @@
 # Principles of Data Analytics
 
-Principles of Data Analytics runs from January to May 2025 at [ATU](https://www.atu.ie).
+Principles of Data Analytics is a 5ECTS module at [ATU](https://www.atu.ie).
 
 ![Logicians](https://raw.githubusercontent.com/ianmcloughlin/images/master/principles_da_banner.png)  
 Portraits by [mattleadbeater](https://www.instagram.com/mattleadbeater/).
