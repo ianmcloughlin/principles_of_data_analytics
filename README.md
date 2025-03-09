@@ -29,5 +29,10 @@ The assessment is detailed in [instructions.md](assessment/instructions.md) in t
 
 The learning materials are in the [materials folder](materials).  
 
-[*Python for Data Analysis*](https://wesmckinney.com/book/) by Wes McKinney is a great resource for this module.  
-[*Python Data Science Handbook*](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas is also great.  
+### External
+
+[Python for Data Analysis](https://wesmckinney.com/book/)  
+Wes McKinney  
+
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
+Jake VanderPlas  
