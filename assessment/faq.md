@@ -90,6 +90,17 @@ You may use AI for your submission, but it likely won't meet assessment the crit
 You need to carefully check any information or code it generates, and always reference any AI platform you use.
 Most platforms offer some form of shareable links to your past conversations that can be used as references.
 
+## Can I include rough work in my repository?
+
+Though not necessary, you can keep your own rough work in your repository.
+This might include notes, experimental code, or copies of notebooks used in lectures or labs.
+Please store these files in a folder named `roughwork` at the root of your repository.  
+Keep the contents of the `roughwork` folder well organized, following the usual conventions for filenames and the like.
+
+Please note that the contents of the `roughwork` folder will be ignored.
+It will not be considered part of your submission and will not be used to determine your grade.
+Anything that is part of your assessment submission must appear elsewhere in your repository.
+
 ## How can I get further help?
 
 If you have questions, ask them well in advance of the deadline.
